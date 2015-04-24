@@ -1,0 +1,30 @@
+---------------------------------------------------
+
+Manager Rayne Wooney Personal Info:
+
+Name:                Rayne Wooney
+
+Address:            Manchester
+
+PPS No:             1234584U
+
+Payroll No:         761
+
+DOB:                   11/11/1914
+
+Age:                     100
+
+---------------------------------------------------
+
+Manager Rayne Wooney Wage details:
+
+Years Of Service:                  50
+Salary:                                   €6000
+Team Target Achieved:        105 Units Sold
+Bonus Earned:                    €1200
+Gross Pay:                           €7200
+Tax Rate =                              20%
+
+////////////////////////////////////////////////////////////////////////
+Net Pay:                                €5760
+////////////////////////////////////////////////////////////////////////

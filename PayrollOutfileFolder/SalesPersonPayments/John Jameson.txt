@@ -1,0 +1,31 @@
+---------------------------------------------------
+
+Sales Person John Jameson Info:
+
+Name:                John Jameson
+
+Address:            15 James Street, Dublin 12
+
+PPS No:             7654323A
+
+Payroll No:         12
+
+DOB:                   15/07/1967
+
+Age:                     46
+
+---------------------------------------------------
+
+Sales Person John Jameson Wage details:
+
+Hours Worked:                   40
+Hourly Rate:                        12.0
+Sales Achieved:                 25 Units Sold
+Weekly Pay:                       €480
+Commission Earned:     €150.0
+Gross Pay:                         €630
+Tax Rate =                            20%
+
+/////////////////////////////////////////////////////////////////////
+Net Pay:                              €504
+/////////////////////////////////////////////////////////////////////

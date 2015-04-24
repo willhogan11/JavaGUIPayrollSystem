@@ -1,0 +1,30 @@
+---------------------------------------------------
+
+Manager Will Hogan Personal Info:
+
+Name:                Will Hogan
+
+Address:            Galway, Co.Galway
+
+PPS No:             1234567D
+
+Payroll No:         12
+
+DOB:                   16/05/1977
+
+Age:                     36
+
+---------------------------------------------------
+
+Manager Will Hogan Wage details:
+
+Years Of Service:                  15
+Salary:                                   €4000
+Team Target Achieved:        105 Units Sold
+Bonus Earned:                    €800
+Gross Pay:                           €4800
+Tax Rate =                              20%
+
+////////////////////////////////////////////////////////////////////////
+Net Pay:                                €3840
+////////////////////////////////////////////////////////////////////////

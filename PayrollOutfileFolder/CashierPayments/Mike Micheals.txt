@@ -1,0 +1,30 @@
+---------------------------------------------------
+
+Cashier Person Mike Micheals Info:
+
+Name:                Mike Micheals
+
+Address:            19 St Micheal Street, Donegal Town
+
+PPS No:             132435H
+
+Payroll No:         67
+
+DOB:                   11/09/1990
+
+Age:                     24
+
+---------------------------------------------------
+
+Cashier Mike Micheals Wage details:
+
+Hours Worked:                39
+Hourly Rate:                     10
+Weekly Pay:                 €390
+Overtime Hours:              15
+Gross Pay:                   €615
+Tax Rate =                        20%
+
+////////////////////////////////////////////////////
+Net Pay:                         €492
+////////////////////////////////////////////////////
